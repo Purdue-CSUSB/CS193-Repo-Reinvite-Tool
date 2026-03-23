@@ -12,6 +12,8 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+
+
 export const metadata: Metadata = {
   title: "GitHub Re-invite Tool | Manage Repository Invitations",
   description: "A modern web application that helps manage GitHub repository invitations by removing stale invitations and sending fresh ones. Perfect for educational institutions managing student access to course repositories.",
